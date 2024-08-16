@@ -1,2 +1,2 @@
-# StockData
+# StockData Visualisation
 StockData
